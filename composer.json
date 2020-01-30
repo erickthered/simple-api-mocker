@@ -1,0 +1,13 @@
+{
+    "name": "erickthered/api-mocker",
+    "description": "Simple API mocker",
+    "authors": [
+        {
+            "name": "Erick Rojas",
+            "email": "erickrojaz@gmail.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.2.0.6"
+    }
+}
